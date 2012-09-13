@@ -7,7 +7,7 @@ Version:	0.1
 Release:	0.1
 License:	MIT
 Group:		Applications/WWW
-Source0:	https://github.com/dutchsoftware/elvis-API-samples/tarball/master
+Source0:	https://github.com/dutchsoftware/elvis-API-samples/tarball/master/%{name}-%{version}.tgz
 # Source0-md5:	47551e2011b458f674f5e2dc2d695219
 URL:		https://elvis.tenderapp.com/kb/api/javascript-library-elvisapi
 BuildRequires:	closure-compiler
