@@ -13,8 +13,9 @@ URL:		https://elvis.tenderapp.com/kb/api/javascript-library-elvisapi
 BuildRequires:	closure-compiler
 BuildRequires:	rpmbuild(macros) >= 1.268
 BuildRequires:	unzip
-BuildRequires:	yuicompressor
-Requires:	jquery >= 1.2
+Requires:	jquery >= 1.6
+Requires:	jquery-class
+Requires:	jquery-cookie
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
