@@ -4,7 +4,7 @@
 Summary:	jQuery plugin for ElvisAPI
 Name:		jquery-%{plugin}
 Version:	0.1
-Release:	0.1
+Release:	1
 License:	MIT
 Group:		Applications/WWW
 Source0:	https://github.com/dutchsoftware/elvis-API-samples/tarball/master/%{name}-%{version}.tgz
